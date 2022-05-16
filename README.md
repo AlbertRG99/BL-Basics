@@ -1,2 +1,2 @@
-# BL-Basics
+# DL-Basics
  Deep Learning Basics
